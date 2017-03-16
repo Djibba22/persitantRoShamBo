@@ -36,7 +36,7 @@ input { /* Visual */ background-color: #FFFCF7; }
 ***********************************/
 
 #swap-zone {
-  
+
   /* Positioning */
   margin: 25px auto;
 
@@ -121,7 +121,7 @@ input { /* Visual */ background-color: #FFFCF7; }
   /* Visual */
   border: 1px solid black;
   padding: 10px;
-  
+
 }
 
 #player1-name,
@@ -153,7 +153,7 @@ li {
 
   /* Typography */
   font-size: 24px;
-  
+
 }
 
 .outcomes {
@@ -211,7 +211,7 @@ li {
 
   /* Visual */
   background-color: #FFFCF7;
-  
+
 }
 
 #chat-bar {
@@ -233,7 +233,7 @@ li {
 .player0 {
 
   /* Visual */
-  background-color: lightgrey;
-  color: black;
+  background-color: deeppink;
+  color: white;
 
 }
