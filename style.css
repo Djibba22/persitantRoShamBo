@@ -229,12 +229,11 @@ li {
 
 .player1 { /* Visual */ color: #419D78; }
 
-.player2 { /* Visual */ color: #2D3047; }
+.player2 { /* Visual */ color: #B8860B; }
 
 .player0 {
 
   /* Visual */
-  background-color: deeppink;
-  color: white;
+  color: deeppink;
 
 }
