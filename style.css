@@ -208,6 +208,7 @@ li {
   /* Box-model */
   height: 125px;
   overflow: auto;
+  padding: 0 10px 0 10px;
 
   /* Visual */
   background-color: #FFFCF7;
