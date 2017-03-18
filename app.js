@@ -82,9 +82,7 @@ $("#chat-input").keypress(function(e) {
 
 // Click event for dynamically added <li> elements
 $(document).on("click", "li", function() {
-
   // console.log("click");
-
   // Grabs text from li choice
   var clickChoice = $(this).text();
   console.log("playerRef in li click = " + playerRef);
@@ -104,7 +102,7 @@ $(document).on("click", "li", function() {
     return turn + 1;
   });
 });
-
+// 
 // Update chat on screen when new message detected - ordered by 'time' value
 chatData.orderByChild("time").on("child_added", function(snapshot) {
 
