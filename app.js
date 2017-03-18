@@ -63,7 +63,6 @@ $("#chat-send").click(function() {
 });
 
 // Chatbox input listener
-
 $("#chat-input").keypress(function(e) {
 
   if (e.keyCode === 13 && $("#chat-input").val() !== "") {
